@@ -5,7 +5,7 @@ See [YouTube Silicon Valley Clip](https://www.youtube.com/watch?v=ACmydtFDTGs)
 
 ## Prerequisites
 - iPhone with iOS +11
-- Xcode +9
+- Xcode +9 [Download Xcode on the App Store](https://itunes.apple.com/us/app/xcode/id497799835?mt=12)
 - Follow instruction below and know how to sideload [Instructions on OSX Daily to Sideload an app](http://osxdaily.com/2016/01/12/howto-sideload-apps-iphone-ipad-xcode/)
 
 ## Get started
