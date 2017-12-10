@@ -20,7 +20,7 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
         
         imagePicker.delegate = self
         imagePicker.sourceType = .camera // .photoLibrary will give access to the library
-        imagePicker.allowsEditing = false
+        imagePicker.allowsEditing = true
     }
     
     @IBAction func cameraTapped(_ sender: UIBarButtonItem) {
